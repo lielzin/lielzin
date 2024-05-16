@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Eliel Santos Mumbarra
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuSOgbKu6CT6iBr6ehDnp8Q)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lielziin?igsh=anc5ZG04NnhpaHho)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliel-santos-mumbarra-659288257/)
 
